@@ -14,3 +14,4 @@ go run barnsley-fern.go
 ```
 This will generate an image in current directory. 
 
+See **./barnsley-fern --help** for available flags.
